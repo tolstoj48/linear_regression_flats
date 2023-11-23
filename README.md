@@ -1,4 +1,4 @@
-##Linear regression of the prices of the Beroun´s older flats
+## Linear regression of the prices of the Beroun´s older flats
 
 By petr_m_10 (discord name) or Petr_M
 
